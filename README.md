@@ -1,2 +1,2 @@
 # DiskOne
- Projeto Progrramação para Dispositivos Móveis
+ Projeto Programação para Dispositivos Móveis
