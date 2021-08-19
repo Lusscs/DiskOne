@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/button_bg.xml" value="0.33828125" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/card_background.xml" value="0.33828125" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ctr_bg.xml" value="0.33828125" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/layout_bg.xml" value="0.33828125" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_adicionar_receita.xml" value="0.33" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_cadastro.xml" value="0.3140625" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_detalhes_receita.xml" value="0.3140625" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_editar_receita.xml" value="0.3140625" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_first.xml" value="0.15067466266866567" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_login.xml" value="0.3140625" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_login2.xml" value="0.3140625" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_mapa.xml" value="0.2439516129032258" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_tutorial.xml" value="0.15067466266866567" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/fragment_minhas_receitas.xml" value="0.3140625" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/fragment_second.xml" value="0.2674731182795699" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/item_card.xml" value="0.2674731182795699" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/item_card_simples.xml" value="0.3140625" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/my_header.xml" value="0.19489247311827956" />
+        <entry key="..\:/Users/adril/AndroidStudioProjects/DiskOne/app/src/main/res/layout/nested_second_activity.xml" value="0.19489247311827956" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/button_bg.xml" value="0.518320610687023" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.518320610687023" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.53046875" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.518320610687023" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ic_baseline_food_bank_24.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.518320610687023" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.518320610687023" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.518320610687023" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ic_baseline_people_alt_24.xml" value="0.518320610687023" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ic_baseline_straighten_24.xml" value="0.518320610687023" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/ic_baseline_subdirectory_arrow_right_24.xml" value="0.518320610687023" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/drawable/onboarding_indicator_inactive.xml" value="0.518320610687023" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_adicionar_receita.xml" value="0.33" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_cadastro.xml" value="0.24287856071964017" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_detalhes_activities.xml" value="0.22849462365591397" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_detalhes_minhas_receitas.xml" value="0.3165322580645161" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_detalhes_receita.xml" value="0.371875" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_editar_receita.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_login.xml" value="0.24287856071964017" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_main.xml" value="0.426747311827957" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_mapa.xml" value="0.34408602150537637" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_option_four.xml" value="0.24287856071964017" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_option_two.xml" value="0.24287856071964017" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/activity_tutorial.xml" value="0.34408602150537637" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/appbar.xml" value="0.24287856071964017" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/item_card.xml" value="0.67" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/item_card_simples.xml" value="0.34408602150537637" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/my_header.xml" value="0.34408602150537637" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/nested_second_activity.xml" value="0.22849462365591397" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/layout/nested_second_activity_2.xml" value="0.22849462365591397" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/menu/drawer_view.xml" value="0.4722222222222222" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/DiskOne/app/src/main/res/menu/menu.xml" value="0.4722222222222222" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63079270788",
+    "project_id": "disk-70d1a",
+    "storage_bucket": "disk-70d1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63079270788:android:e3d9d7e5f104c5ea9b35d1",
+        "android_client_info": {
+          "package_name": "com.example.diskone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63079270788-lvu0ov8ncijmotrmg54orv4h8e1t3884.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjhR16FG_T8lXgP6womn-PJDsZ8-mX-b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63079270788-lvu0ov8ncijmotrmg54orv4h8e1t3884.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
